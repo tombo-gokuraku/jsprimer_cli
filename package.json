@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/tombo-gokuraku/jsprimer_cli#readme",
   "dependencies": {
-    "commander": "^2.9.0",
-    "marked": "^0.7.0"
+    "commander": "^6.0.0",
+    "marked": "^1.1.1"
   },
   "devDependencies": {
-    "mocha": "^6.2.2"
+    "mocha": "^8.0.1"
   }
 }
